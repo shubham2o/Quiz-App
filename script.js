@@ -1,4 +1,5 @@
-const quizData = [{
+const quizData = [
+    {
     question: 'How old is Florin?',
     a: '10',
     b: '17',
@@ -20,7 +21,7 @@ const quizData = [{
     d: 'Mihai Andrei',
     correct: 'b'
 }, {
-    question: 'What does HTML stand for?'
+    question: 'What does HTML stand for?',
     a: 'HyperText Markup Language',
     b: 'Cascading Style Sheet',
     c: 'Json Object Notation',
