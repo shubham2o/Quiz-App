@@ -41,6 +41,11 @@ ul li {
   font-size: 1.2em;
 }
 
+ul li input,
+ul li label {
+  cursor: pointer;
+}
+
 button {
   background-color: purple;
   display: block;
