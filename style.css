@@ -28,6 +28,8 @@ body {
 }
 
 h2 {
+  text-align: center;
+  padding: 1rem;
   margin: 0;
 }
 
@@ -59,5 +61,10 @@ button {
 }
 
 button:hover {
-  background-color: #8e44ad;
+  background-color: #732d91;
+}
+
+button:focus {
+  background-color: #5e3370;
+  outline: none;
 }
